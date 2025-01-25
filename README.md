@@ -3,6 +3,7 @@ programming
 
 here is a template with which you can start learning how to create websites)
 this template was created for a furniture web store
+this template is for working with the django library in python
 
 (the Russian language is used there)
 
@@ -25,3 +26,5 @@ product.html this is an expanded product card
 Sorry, I'm too lazy to continue.
 
 IMPORTANT, the defs folder contains the base of the site (layout files)
+
+If you still have any questions, you can ask me in a telegram, my user: @kraychykk
