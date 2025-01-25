@@ -28,3 +28,5 @@ Sorry, I'm too lazy to continue.
 IMPORTANT, the defs folder contains the base of the site (layout files)
 
 If you still have any questions, you can ask me in a telegram, my user: @kraychykk
+the main thing is that when contacting me, you indicate that you are with git
+good luck❤️
