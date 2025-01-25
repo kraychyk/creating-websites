@@ -23,4 +23,5 @@ catalog.html this is the website directory
 product.html this is an expanded product card
 
 Sorry, I'm too lazy to continue.
+
 IMPORTANT, the defs folder contains the base of the site (layout files)
